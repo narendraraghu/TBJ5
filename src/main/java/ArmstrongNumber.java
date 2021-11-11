@@ -15,9 +15,9 @@ public class ArmstrongNumber {
         }
 
         if (result == number) {
-            System.out.println(" Amstrong Number");
+            System.out.println(" Armstrong Number");
         } else
-            System.out.println("Not an Amstrong Number");
+            System.out.println("Not an Armstrong Number");
     }
 }
 
