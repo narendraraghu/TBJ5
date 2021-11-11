@@ -1,11 +1,11 @@
-public class AmstrongNumber {
+public class ArmstrongNumber {
 
 
     public static void main(String[] args) {
         int number = 154;
 
         int originalNumber = number;
-        int remainder = 0;
+        int remainder;
         int result = 0;
 
         while (originalNumber != 0) {
